@@ -6,4 +6,4 @@ Once you fix all errors, you should be able to:
 - Add items to the database (using the /add path) 
 - List all of the items in the database using the default route
 
-Check to make sure your model is well structured, and also that you have the correct items specified 
+Check to make sure your model is well structured, and that all the items you need in all of your classes are in the right place. 
