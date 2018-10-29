@@ -1,4 +1,4 @@
-#Spring Boot - Troubleshooting with the Database 
+# Spring Boot - Troubleshooting with the Database 
 
 This is an application that has errors for you to fix. 
 Once you fix all errors, you should be able to: 
